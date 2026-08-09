@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "marketplace": {
+    "initialized": false,
+    "seenIds": []
+  },
+  "seller": {
+    "initialized": false,
+    "seenIds": []
+  },
+  "errors": {}
+}

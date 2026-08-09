@@ -1,0 +1,12 @@
+{
+  "name": "rwi-watch-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "monitor": "node monitor.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "latest"
+  }
+}
